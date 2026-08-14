@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "20bb749c7d80f73280c5f99565952cff07aecdf1",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-05-25T13:29:37Z",
+    "files": 9,
+    "merge": true,
+    "message": "Merge pull request #92 from ropensci-review-tools/nollama\n\nrm embeddings from pkgmatch data"
+  },
+  "repo": "https://github.com/ropensci-review-tools/orgmetrics",
+  "pkg": "orgmetrics",
+  "time": "2026-08-14T18:45:52Z"
+}
