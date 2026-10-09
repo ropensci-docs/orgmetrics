@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e4c50ac1a88734ab7bdaa4f825c45cfd15ab86f5",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2026-10-09T10:24:32Z",
+    "files": 3,
+    "merge": false,
+    "message": "skip 'test-utils' if \\!test_all\n\nSome fail on non-Linux systems because of unreachable paths\nwhen saving mock data\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/orgmetrics",
+  "pkg": "orgmetrics",
+  "time": "2026-10-09T11:44:54Z"
+}
