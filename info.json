@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "7c305ca547633b4a19df5a55d093c061cd136e0c",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-11-12T13:36:19Z",
+    "files": 2,
+    "merge": false,
+    "message": "chore: streamline maintenance, update installation instructions\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/orgmetrics",
+  "pkg": "orgmetrics",
+  "time": "2026-11-12T14:54:49Z"
+}
